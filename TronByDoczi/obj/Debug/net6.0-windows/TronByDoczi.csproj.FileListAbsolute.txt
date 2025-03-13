@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\bin\Debug\net6.0-windows\TronByDoczi.exe
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\bin\Debug\net6.0-windows\TronByDoczi.deps.json
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\bin\Debug\net6.0-windows\TronByDoczi.runtimeconfig.json
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\bin\Debug\net6.0-windows\TronByDoczi.dll
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\bin\Debug\net6.0-windows\TronByDoczi.pdb
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.Form1.resources
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.dll
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\refint\TronByDoczi.dll
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.pdb
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\TronByDoczi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TronByDoczi\TronByDoczi\obj\Debug\net6.0-windows\ref\TronByDoczi.dll

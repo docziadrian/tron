@@ -14,8 +14,6 @@ A **Tron** egy kétszemélyes játék, amelyet C# nyelven, Windows Forms felhasz
 - **Fejlesztőeszköz**: Visual Studio
 - **Nyílt forráskódú**: A teljes forráskód elérhető, és szabadon módosítható.
 
-## 📜 Licenc
-Ez a projekt nyílt forráskódú, és a [MIT licenc](LICENSE) alatt érhető el.
 
 ---
 ✨ Ha tetszik a projekt, nyugodtan forkolhatod és fejlesztheted tovább! 🚀
@@ -37,23 +35,11 @@ Ez a projekt nyílt forráskódú, és a [MIT licenc](LICENSE) alatt érhető el
 - **Collision detection** – If a player crashes into a line or the boundary, the other player wins.
 - **Minimalist graphics** – Uses Windows Forms for visual rendering.
 
-## 📥 Installation & Running
-1. **Download the code**
-   ```bash
-   git clone https://github.com/username/tron-game.git
-   cd tron-game
-   ```
-2. **Run in Visual Studio**
-   - Open the `.sln` file in Visual Studio.
-   - Build and run the project (`Ctrl + F5`).
-
 ## 🛠️ Development Information
 - **Technology**: C# (Windows Forms)
 - **Development Tool**: Visual Studio
 - **Open-source**: The full source code is available and can be freely modified.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 ✨ If you like this project, feel free to fork and improve it! 🚀
